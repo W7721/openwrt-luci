@@ -5906,6 +5906,18 @@ msgstr ""
 "选字段，可为每个主机单独设定 DHCP 租期的时长，例如：12h、3d、infinite，分别表"
 "示 12 小时、3 天、永久。"
 
+msgid "Custom domain"
+msgstr "自定义挟持域名"
+
+msgid "Define a custom domain name and the corresponding PTR record"
+msgstr "自定义域名对应的IP地址（需要客户端DNS指向本路由）"
+
+msgid "Domain name"
+msgstr "域名（不带 HTTP(S)://）"
+
+msgid "Comments"
+msgstr "备注"
+
 #: modules/luci-mod-status/htdocs/luci-static/resources/view/status/include/20_memory.js:36
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/mounts.js:194
 msgid "Used"
