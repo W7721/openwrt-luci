@@ -10,6 +10,9 @@ msgstr ""
 msgid "AdGuard (Standard)"
 msgstr ""
 
+msgid "AliDNS"
+msgstr ""
+
 msgid "CIRA Canadian Shield (Family)"
 msgstr ""
 
@@ -46,13 +49,13 @@ msgstr ""
 msgid "DNS.SB"
 msgstr ""
 
+msgid "DNSPod.cn Public DNS"
+msgstr ""
+
 msgid "Digitale Gesellschaft"
 msgstr ""
 
 msgid "Disable"
-msgstr ""
-
-msgid "EDNS client subnet"
 msgstr ""
 
 msgid "Enable"
@@ -83,6 +86,12 @@ msgid "Loading"
 msgstr ""
 
 msgid "ODVR (nic.cz)"
+msgstr ""
+
+msgid "OpenDNS"
+msgstr ""
+
+msgid "OpenDNS (Family Shield)"
 msgstr ""
 
 msgid "Proxy server"
